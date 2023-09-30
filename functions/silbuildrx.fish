@@ -8,5 +8,5 @@ function silbuildrx --description "Transfer built HVC SIL directories to local d
     dev$num:/nfs_home/aguden/firmware/./components/hvSystem/hvp/built \
     dev$num:/nfs_home/aguden/firmware/./SystemBucks/Platform/Cybertruck/HvbattBuck/built \
     dev$num:/nfs_home/aguden/firmware/./SystemBucks/Platform/Cybertruck/HvbattBuck/test-results \
-    Users/aguden/tesla/firmware/
+    ~/tesla/firmware/
 end
